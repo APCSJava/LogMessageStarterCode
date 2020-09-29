@@ -17,7 +17,7 @@ public class LogMessage {
    }
 
    public String getMachineId() {
-      return machineID;
+      return machineId;
    }
 
    public String getDescription() {
